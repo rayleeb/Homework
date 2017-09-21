@@ -6,6 +6,7 @@
 I know that this assignment is *very* late but I think I got the hang of it finally. This week started off with a simple screenshot and ended with some of the hardest things. The hardest part for my was trying to upload it onto Github.
 ![screenshot] (.images/screenshot1.png).
 
+
 Some of the things I still find confusing are
 1. Github
 2. How to upload to Github
